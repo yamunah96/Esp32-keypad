@@ -1,4 +1,3 @@
-![image](https://github.com/yamunah96/Esp32-keypad/assets/70136290/0aeafe7d-449f-4db8-b5db-99e6be16c22a)# Esp32-keypad
 <img src="https://github.com/yamunah96/Esp32-keypad/blob/main/keypad.PNG" width="300" height="300">
 
 <h4>HOW KEYPADS WORK</h4>
